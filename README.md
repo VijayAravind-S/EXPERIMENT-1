@@ -1,4 +1,4 @@
- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 ```
 Name: VIJAY ARAVIND S
 Reg No: 212222060292
